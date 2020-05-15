@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Listen to music :notes:
+* Code :computer:
+* Sleep :zzz:
